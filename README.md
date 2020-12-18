@@ -1,3 +1,3 @@
 # deepracer-waypoints-workshop
-AWS DeepRacer Student Workshop:Run fast with Waypoint Analysis
- 
+AWS DeepRacer Student Workshop:Run faster by using your custom waypoints
+
