@@ -2,14 +2,14 @@ def reward_function(params):
 
     center_variance = params["distance_from_center"] / params["track_width"]
 
-    left_lane = []
+    left_lane = []#Fill in the waypoints
     
-    center_lane = []
+    center_lane = []#Fill in the waypoints
     
-    right_lane = []
+    right_lane = []#Fill in the waypoints
     
-    fast = []
-    slow = []
+    fast = []#Fill in the waypoints
+    slow = []#Fill in the waypoints
     
     reward = 21
 
