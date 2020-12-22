@@ -1,5 +1,5 @@
 # AWS DeepRacer Free Student Workshop: Run faster by using your custom waypoints
-# Reward Function
+# Reward Function Template for waypoints
 
 ```python
 def reward_function(params):
@@ -13,8 +13,8 @@ def reward_function(params):
     right_lane = []#Fill in the waypoints
     
     #Speed
-    fast = []#Fill in the waypoints
-    slow = []#Fill in the waypoints
+    fast = []#Fill in the waypoints, 2m/s
+    slow = []#Fill in the waypoints, 1m/s
     
     reward = 21
 
