@@ -11,6 +11,7 @@ def reward_function(params):
     center_lane = []#Fill in the waypoints
     
     right_lane = []#Fill in the waypoints
+    
     #Speed
     fast = []#Fill in the waypoints
     slow = []#Fill in the waypoints
