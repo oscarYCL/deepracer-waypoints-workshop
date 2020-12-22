@@ -3,7 +3,7 @@
 
 ```python
 def reward_function(params):
-
+    #racing line
     center_variance = params["distance_from_center"] / params["track_width"]
 
     left_lane = []#Fill in the waypoints
@@ -11,7 +11,7 @@ def reward_function(params):
     center_lane = []#Fill in the waypoints
     
     right_lane = []#Fill in the waypoints
-    
+    #Speed
     fast = []#Fill in the waypoints
     slow = []#Fill in the waypoints
     
