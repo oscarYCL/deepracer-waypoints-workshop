@@ -51,6 +51,6 @@ def reward_function(params):
 5hours by default Hyperparameter
 ## Evaluation results 
 <img width="499" alt="Evaluation results" src="https://user-images.githubusercontent.com/61004532/110197175-bad16500-7e84-11eb-864a-1c487320f4d7.png">
-## Racing Video
-
+## Racing Video (Time 02:27)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/upiIGe60vGQ/0.jpg)](https://www.youtube.com/watch?v=upiIGe60vGQ)
 
