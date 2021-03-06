@@ -1,3 +1,4 @@
+
 # Reward function for the Po-Chun Speedway
 ## Racing Line
 ![penbay_open](https://user-images.githubusercontent.com/61004532/110137027-58884e00-7e0b-11eb-8c0d-dd712517157f.png)
@@ -46,3 +47,10 @@ def reward_function(params):
     
     return float(reward)
 ```
+## Training configuration
+5hours by default Hyperparameter
+## Evaluation results 
+<img width="499" alt="Evaluation results" src="https://user-images.githubusercontent.com/61004532/110197175-bad16500-7e84-11eb-864a-1c487320f4d7.png">
+## Racing Video
+
+
