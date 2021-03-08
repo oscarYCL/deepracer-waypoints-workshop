@@ -48,6 +48,8 @@ def reward_function(params):
 ```
 ## Training configuration(4 hours by default Hyperparameter)
 <img width="970" alt="螢幕截圖 2021-03-08 下午9 35 15" src="https://user-images.githubusercontent.com/61004532/110328426-4f3ef180-8056-11eb-858b-891e5a91203f.png">
+<img width="969" alt="螢幕截圖 2021-03-08 下午9 37 39" src="https://user-images.githubusercontent.com/61004532/110328668-988f4100-8056-11eb-939f-8e2c37072788.png">
+
 
 ## Evaluation results 
 
