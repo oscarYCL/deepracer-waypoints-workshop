@@ -47,5 +47,8 @@ def reward_function(params):
     return float(reward)
 ```
 ## Training configuration(4 hours by default Hyperparameter)
+<img width="970" alt="螢幕截圖 2021-03-08 下午9 35 15" src="https://user-images.githubusercontent.com/61004532/110328426-4f3ef180-8056-11eb-858b-891e5a91203f.png">
+
 ## Evaluation results 
+
 ## Racing Video
