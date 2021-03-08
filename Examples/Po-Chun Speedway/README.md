@@ -1,5 +1,5 @@
 
-# Reward function for the Po-Chun Speedway
+# Waypoints reward function for the Po-Chun Speedway
 ## Racing Line
 ![penbay_open](https://user-images.githubusercontent.com/61004532/110137027-58884e00-7e0b-11eb-8c0d-dd712517157f.png)
 
