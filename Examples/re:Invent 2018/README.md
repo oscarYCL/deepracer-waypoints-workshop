@@ -52,5 +52,7 @@ def reward_function(params):
 
 
 ## Evaluation results 
+<img width="489" alt="螢幕截圖 2021-03-08 下午9 40 46" src="https://user-images.githubusercontent.com/61004532/110333861-10f90080-805d-11eb-8ed1-ae818a318940.png">
 
 ## Racing Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/M-Rc1a6ERwY/0.jpg)](http://www.youtube.com/watch?v=M-Rc1a6ERwY)
