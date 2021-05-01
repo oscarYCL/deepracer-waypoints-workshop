@@ -1,5 +1,7 @@
 # Waypoints reward function for the LarsLoop
 ## Racing Line
+![thunder_hill_open](https://user-images.githubusercontent.com/61004532/116771469-41b64e80-aa7e-11eb-8a78-31fd532a2254.png)
+
 
 
 ## Reward function
@@ -47,10 +49,12 @@ def reward_function(params):
     
     return float(reward)
 ```
-## Training configuration(5 hours by default Hyperparameter)
-
+## Training configuration(4 hours by default Hyperparameter)
+<img width="462" alt="螢幕截圖 2021-05-01 下午1 09 35" src="https://user-images.githubusercontent.com/61004532/116771491-804c0900-aa7e-11eb-95e9-aabb8ac0e77a.png">
+<img width="969" alt="螢幕截圖 2021-05-01 下午1 11 53" src="https://user-images.githubusercontent.com/61004532/116771531-d0c36680-aa7e-11eb-866a-c37fbb10778c.png">
 
 ## Evaluation results 
+
 
 ## Racing Video (Time: 02:27)
 
