@@ -54,3 +54,5 @@ https://youtu.be/__NjsBY2TS0
 
 ## credit
 https://github.com/aws-deepracer-community/deepracer-analysis
+
+https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/tracks/npy
