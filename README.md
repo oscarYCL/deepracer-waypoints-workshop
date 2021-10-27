@@ -52,7 +52,7 @@ https://youtu.be/__NjsBY2TS0
 ## Other Workshop
 [AWS Educate Classroom for a free AWS DeepRacer Student Workshop](https://www.linkedin.com/pulse/aws-educate-classroom-free-deepracer-student-workshop-yuen-oscar/?trackingId=Ug9v8CodQdG7MXETAri5Ww%3D%3D)
 
-## credit
+## Credit
 https://github.com/aws-deepracer-community/deepracer-analysis
 
 https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/tracks/npy
